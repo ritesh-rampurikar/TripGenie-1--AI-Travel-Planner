@@ -104,6 +104,6 @@ The purpose of this project is to develop an AI-powered travel planning platform
 
 ## Author
 
-Krushna Zate
+Ritesh Rampurikar
 
-GitHub: [@krushnavz03](https://github.com/krushnavz03)
+GitHub: [ritesh-rampurikar](https://github.com/ritesh-rampurikar)
