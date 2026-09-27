@@ -54,7 +54,7 @@ AI-Travel-Planner/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/krushnavz03/TripGenei-Ai-Travel-Planner.git
+git clone https://github.com/ritesh-rampurikar/TripGenei-Ai-Travel-Planner.git
 ```
 
 ### 2. Go to the project folder
